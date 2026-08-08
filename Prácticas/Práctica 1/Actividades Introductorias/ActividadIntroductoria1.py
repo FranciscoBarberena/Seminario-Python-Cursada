@@ -1,0 +1,5 @@
+anoNacimiento = input("Ingrese su año de nacimiento: ")
+anoNacimiento = int(anoNacimiento)
+print(f"Cumplirás 18 en {anoNacimiento + 18}")
+print(f"Cumplirás 21 en {anoNacimiento + 21}")
+print(f"Cumplirás 100 en {anoNacimiento + 100}")
