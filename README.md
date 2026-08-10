@@ -12,3 +12,7 @@
 ## Teorías
 
 * [Material de las teorías en formato Jupyter Notebook.](https://github.com/FranciscoBarberena/Seminario-Python-Cursada/tree/main/Teor%C3%ADas)
+
+## Cafecito
+
+- Si te sirvió este repositorio, podés [inviatrme a un Cafecito](https://cafecito.app/franciscobarberena). Gracias!
