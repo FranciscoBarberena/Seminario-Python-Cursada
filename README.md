@@ -1,6 +1,7 @@
 # Seminario de Lenguajes (opción Python)
 
 * Resolución de las prácticas y material de las teorías de la materia Seminario de Lenguajes (opción Python).
+* [Programa de la materia](https://github.com/FranciscoBarberena/Seminario-Python-Cursada/blob/main/ProgramaDeLaMateria2026.pdf)
 
 ## [Prácticas](https://github.com/FranciscoBarberena/Seminario-Python-Cursada/tree/main/Pr%C3%A1cticas)
 
